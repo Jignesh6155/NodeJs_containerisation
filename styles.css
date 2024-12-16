@@ -36,7 +36,7 @@ label {
 button {
   background-color: #2f005a;
   border: 1px solid #2f005a;
-  color: white;
+  color: rgb(242, 80, 80);
   cursor: pointer;
   padding: 0.5rem 1.5rem;
 }
