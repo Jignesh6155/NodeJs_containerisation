@@ -3,7 +3,7 @@ const bodyParser = require('body-parser');
 
 const app = express();
 
-let userGoal = 'Hello World!';
+let userGoal = 'Change';
 
 app.use(
   bodyParser.urlencoded({
