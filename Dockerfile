@@ -13,7 +13,7 @@ RUN npm install
 COPY . .
 
 # Expose port 80 to allow external access to the application
-EXPOSE 8000
+EXPOSE 80
 
 # Define the command to start the application
 CMD ["node", "server.js"]
